@@ -59,8 +59,12 @@ plugins:
 author:
   name   : "Christian Schoeffmann"
   avatar : "/assets/images/myself.jpg"
-  bio    : "Passionate hobbyist in woodworking and engineering."
+  bio    : "My name is Christian. I am a passionate hobbyist in woodworking and engineering."
   location : Carinthia, Austria
+  links: 
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:chrschoeffmann@gmail.com"
 
 footer:
   links:
